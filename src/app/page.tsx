@@ -90,7 +90,7 @@ export default function LandingPage() {
             {
               title: "Tecnica Artigianale",
               description: "I nostri maestri pizzaioli seguono le tradizioni autentiche, impastando a mano e facendo fermentare il nostro impasto con cura per sviluppare sapori complessi e profondi.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764078556454-plunvv1w.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/tmp/geneate-an-image-of-premium-pasta-bologn-1764079013442-1e0b836f.jpg",
               imageAlt: "Artisan pizza preparation"
             },
             {
